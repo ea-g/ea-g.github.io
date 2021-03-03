@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Eric Goldberg"
   avatar : "/assets/images/IMG_1592.jpg"
-  bio    : "I'm interested in computational social science and its applications towards public policy."
+  bio    : "Machine learning and data science habitué. Computational Data Analytics grad student at Georgia Tech."
   links:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
