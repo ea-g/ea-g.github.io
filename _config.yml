@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   A place for machine learning and data science projects.
 #twitter_username: username
 github_username: ea-g
-minimal_mistakes_skin: neon
+minimal_mistakes_skin: "dark"
 search: true
 
 # Build settings
@@ -61,7 +61,7 @@ author:
   bio    : "I'm interested in computational social science and its applications towards public policy."
   links:
     - label: "Linkedin"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/eric-goldberg-749351a9/"
     #- label: "Twitter"
      # icon: "fab fa-fw fa-twitter-square"
