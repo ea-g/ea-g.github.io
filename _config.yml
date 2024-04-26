@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Eric Goldberg"
-  avatar : "/assets/images/IMG_1592.jpg"
+  avatar : "/assets/images/bio-photo.jpg"
   bio    : "Machine learning and data science habitué. Computational Data Analytics grad student at Georgia Tech."
   links:
     - label: "Linkedin"
